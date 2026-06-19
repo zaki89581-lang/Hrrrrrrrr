@@ -1,0 +1,6 @@
+{
+  "name": "GitHub and Render Deployment Helper",
+  "description": "An interactive utility to upload your project ZIP file, analyze its structure, auto-detect frameworks, generate custom Render.yaml files, and provide step-by-step Git & Render deployment instructions in Arabic and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
